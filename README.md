@@ -12,7 +12,7 @@ A modification for MadOut2 BigCity Online that removes server dependency and ena
 ## Installation
 1. Download the modified `assembly-csharp.dll`
 2. Navigate to the game installation directory:
-3. Replace the original `assembly-csharp.dll` with the modified version
+3. Replace the original `steam\steamapps\common\MadOut2_BigCityOnline\game_Data\Managed\assembly-csharp.dll` with the modified version
 
 **Note**: It is recommended to backup the original file before installation.
 
