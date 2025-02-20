@@ -1,5 +1,7 @@
 # MadOut2 BigCityOnline Steam-version Restore
 
+## [ПРОЧТИ МЕНЯ на Русском](https://github.com/dot-alonso/MadOutSteamRestore/blob/main/readme-RU.md)
+
 ## Overview
 
 A patch for Steam versions of MadOut2 BigCityOnline that removes server dependency, Steam requirement, enables offline gameplay functionality and some more!
@@ -10,7 +12,7 @@ A patch for Steam versions of MadOut2 BigCityOnline that removes server dependen
 
 * Supported game versions: 4.9 - 9.4 *(9.4 is a latest version that avalable on Steam)*
 * Server connection requirement removed
-* Single-player mode enabled
+* Single-player mode unlocked
 * Steam requirement removed
 * More coins and diamonds as default
 * Unlimited Nitro
@@ -20,8 +22,10 @@ A patch for Steam versions of MadOut2 BigCityOnline that removes server dependen
 ## Installation
 
 1. Download the modified `*.*-Assembly-CSharp.dll` for your game version *(*`*.*` *in file name is the version number of the game for which the file was made)*
+   
+   **Note:** if you are downloading game from the Steam, you need a `9.4` version
 2. Rename file to `Assembly-CSharp.dll`
-3. Navigate to the game installation directory, then go to the `game_Data\Managed` folder
+3. Navigate to the game installation directory, then to the `game_Data\Managed`
 4. Replace the original `Assembly-CSharp.dll` with the modified version
 
 **Note**: It is recommended to backup the original file before installation.
@@ -40,6 +44,6 @@ A patch for Steam versions of MadOut2 BigCityOnline that removes server dependen
 
 [Source of versions info](https://steamdb.info/depot/586981/manifests/)
 
-For download old versions from Steam use [DepotDownloader](https://github.com/SteamRE/DepotDownloader)
+For download old versions directly from Steam use [DepotDownloader](https://github.com/SteamRE/DepotDownloader)
 
 *MadOut2 BigCItyOnline is developed and owned by MadOut Games. Steam version is not supported as of 2020.*
