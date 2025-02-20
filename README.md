@@ -26,7 +26,7 @@ A patch for Steam versions of MadOut2 BigCityOnline that removes server dependen
 
 **Note**: It is recommended to backup the original file before installation.
 
-## Game Versions History (Steam)
+## Versions History of Game (Steam)
 
 | Version      | Release Date | Steam Manifest      | Download link |
 |--------------|--------------|---------------------|---------------|
