@@ -42,6 +42,6 @@
 
 [Источник информации о версиях](https://steamdb.info/depot/586981/manifests/)
 
-Для скачивания старых версий непосредственно из Steam используйте [DepotDownloader](https://github.com/SteamRE/DepotDownloader)
+Для скачивания старых версий непосредственно из Steam, используйте [DepotDownloader](https://github.com/SteamRE/DepotDownloader)
 
 *MadOut2 BigCItyOnline разработан и принадлежит MadOut Games. Steam версия не поддерживается с 2020 года.*
