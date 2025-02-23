@@ -6,11 +6,11 @@
 
 A patch for Steam versions of MadOut2 BigCityOnline that removes server dependency, Steam requirement, enables offline gameplay functionality and some more!
 
-### Forked from [here](https://github.com/zetsense/MadOut2Restore)
+### Based on [MadOut2Restore by zetsense](https://github.com/zetsense/MadOut2Restore)
 
 ## Features
 
-* Supported game versions: 4.9 - 9.4 *(9.4 is a latest version that avalable on Steam)*
+* Supported game versions: `4.9 - 9.4` *(9.4 is a latest version that avalable on Steam)*
 * Server connection requirement removed
 * Single-player mode unlocked
 * Steam requirement removed
