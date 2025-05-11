@@ -32,13 +32,13 @@
 
 | Версия       | Дата выхода  | Steam Manifest      | Ссылка для скачивания |
 |--------------|--------------|---------------------|---------------|
-| 1.0          | 24 Фев 2017  | 5362664490616149523 | [Скачать](https://cloud.basesquad.ru/s/ceARm7BsCEowTZe/download/MadOut_BIG_City.zip)      |
-| 4.9          | 17 Апр 2018  | 4669469725794922688 | [Скачать](https://cloud.basesquad.ru/s/gCmBfHTgMHAPWpX/download/MadOut2_BCO_Steam_v4.9.zip)      |
-| 5.8          | 23 Авг 2018  | 810271407201701779  | [Скачать](https://cloud.basesquad.ru/s/9YYFZT7wJswYJbr/download/MadOut2_BCO_Steam_v5.8.zip)      |
-| 6.5          | 29 Ноя 2018  | 5854060709760930237 | [Скачать](https://cloud.basesquad.ru/s/ErTrNSSNyYNm4wd/download/MadOut2_BCO_Steam_v6.5.zip)      |
-| 8.1          | 22 Фев 2019  | 6236902338651740472 | [Скачать](https://cloud.basesquad.ru/s/F7bgpb5pFKcZBHT/download/MadOut2_BCO_Steam_v8.1.zip)      |
-| 9.2          | 6 Июн 2019   | 8212884540460448420 | [Скачать](https://cloud.basesquad.ru/s/2QbrwKC2eaaKK3W/download/MadOut2_BCO_Steam_v9.2.zip)      |
-| 9.4 (Latest) | 2 Июл 2019   | 2716105114277471171 | [Скачать](https://cloud.basesquad.ru/s/rw6EW4LebK4YwZ5/download/MadOut2_BCO_Steam_v9.4.zip)      |
+| 1.0          | 24 Фев 2017  | 5362664490616149523 | [Скачать](https://cloud.basesquad.ru/s/ceARm7BsCEowTZe/MadOut_BIG_City.zip/download)      |
+| 4.9          | 17 Апр 2018  | 4669469725794922688 | [Скачать](https://cloud.basesquad.ru/s/gCmBfHTgMHAPWpX/MadOut2_BCO_Steam_v4.9.zip/download)      |
+| 5.8          | 23 Авг 2018  | 810271407201701779  | [Скачать](https://cloud.basesquad.ru/s/9YYFZT7wJswYJbr/MadOut2_BCO_Steam_v5.8.zip/download)      |
+| 6.5          | 29 Ноя 2018  | 5854060709760930237 | [Скачать](https://cloud.basesquad.ru/s/ErTrNSSNyYNm4wd/MadOut2_BCO_Steam_v6.5.zip/download)      |
+| 8.1          | 22 Фев 2019  | 6236902338651740472 | [Скачать](https://cloud.basesquad.ru/s/F7bgpb5pFKcZBHT/MadOut2_BCO_Steam_v8.1.zip/download)      |
+| 9.2          | 6 Июн 2019   | 8212884540460448420 | [Скачать](https://cloud.basesquad.ru/s/2QbrwKC2eaaKK3W/MadOut2_BCO_Steam_v9.2.zip/download)      |
+| 9.4 (Latest) | 2 Июл 2019   | 2716105114277471171 | [Скачать](https://cloud.basesquad.ru/s/rw6EW4LebK4YwZ5/MadOut2_BCO_Steam_v9.4.zip/download)      |
 
 [Источник информации о версиях](https://steamdb.info/depot/586981/manifests/)
 
