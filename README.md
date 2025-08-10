@@ -49,4 +49,7 @@ For download old versions directly from Steam use [DepotDownloader](https://gith
 
 *MadOut2 BigCItyOnline is developed and owned by MadOut Games. Steam version is not supported as of 2020.*
 
-## [Join our Telegram channel](https://t.me/madoutnewschannel)
+---
+
+### [Join our Telegram channel](https://t.me/madoutnewschannel)
+### [Join MadOut2 official Discord](https://discord.gg/eCNXD2Fnx4)
