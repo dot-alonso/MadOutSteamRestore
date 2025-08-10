@@ -47,4 +47,6 @@
 
 *MadOut2 BigCItyOnline разработан и принадлежит MadOut Games. Steam версия не поддерживается с 2020 года.*
 
-## [Вступайте в наш Telegram канал](https://t.me/madoutnewschannel)
+---
+### [Вступайте в наш Telegram канал](https://t.me/madoutnewschannel)
+### [Вступайте в официальный Telegram канал MadOut2](https://t.me/MadOut2official)
