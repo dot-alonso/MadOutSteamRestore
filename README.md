@@ -14,10 +14,11 @@ A patch for Steam versions of MadOut2 BigCityOnline that removes server dependen
 * Server connection requirement removed
 * Single-player mode unlocked
 * Steam requirement removed
-* More coins and diamonds as default
-* Unlimited Nitro
+* You can get coins and diamonds for free in the shop ("+" in main menu)
 * FPS Limit can be turned off
 * Timeout of car delivering has been removed
+* Quickly change weather by pressing F5
+* Quickly spawn the last vehicle selected via the phone by pressing F6 *(on versions `4.9 - 5.8`, the last vehicle selected in the garage)*
 
 ## Installation
 
@@ -47,3 +48,5 @@ A patch for Steam versions of MadOut2 BigCityOnline that removes server dependen
 For download old versions directly from Steam use [DepotDownloader](https://github.com/SteamRE/DepotDownloader)
 
 *MadOut2 BigCItyOnline is developed and owned by MadOut Games. Steam version is not supported as of 2020.*
+
+## [Join our Telegram channel](https://t.me/madoutnewschannel)
